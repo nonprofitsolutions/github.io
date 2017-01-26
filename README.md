@@ -1,2 +1,2 @@
-# github.io
-Nonprofit Solutions, a very small consulting company. Repo and websitelet at Girhub.
+# nonprofitsolutions.github.io
+Microsite on Github for Nonprofit Solutions, a small consulting company.
